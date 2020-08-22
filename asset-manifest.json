@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//Cronvic.github.io/monsters-rolodex/static/css/main.32d387ae.chunk.css",
+    "main.js": "/https//Cronvic.github.io/monsters-rolodex/static/js/main.2027cf38.chunk.js",
+    "main.js.map": "/https//Cronvic.github.io/monsters-rolodex/static/js/main.2027cf38.chunk.js.map",
+    "runtime-main.js": "/https//Cronvic.github.io/monsters-rolodex/static/js/runtime-main.c1f889b6.js",
+    "runtime-main.js.map": "/https//Cronvic.github.io/monsters-rolodex/static/js/runtime-main.c1f889b6.js.map",
+    "static/js/2.b4309f00.chunk.js": "/https//Cronvic.github.io/monsters-rolodex/static/js/2.b4309f00.chunk.js",
+    "static/js/2.b4309f00.chunk.js.map": "/https//Cronvic.github.io/monsters-rolodex/static/js/2.b4309f00.chunk.js.map",
+    "index.html": "/https//Cronvic.github.io/monsters-rolodex/index.html",
+    "precache-manifest.c20b53c67e2aa1c6880d133d047bbc1e.js": "/https//Cronvic.github.io/monsters-rolodex/precache-manifest.c20b53c67e2aa1c6880d133d047bbc1e.js",
+    "service-worker.js": "/https//Cronvic.github.io/monsters-rolodex/service-worker.js",
+    "static/css/main.32d387ae.chunk.css.map": "/https//Cronvic.github.io/monsters-rolodex/static/css/main.32d387ae.chunk.css.map",
+    "static/js/2.b4309f00.chunk.js.LICENSE.txt": "/https//Cronvic.github.io/monsters-rolodex/static/js/2.b4309f00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1f889b6.js",
+    "static/js/2.b4309f00.chunk.js",
+    "static/css/main.32d387ae.chunk.css",
+    "static/js/main.2027cf38.chunk.js"
+  ]
+}
